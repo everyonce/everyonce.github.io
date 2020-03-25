@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.0.0
+passwd:
+  users:
+    - name: everyonce
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyFFX/5tYV/lLCNOPdBCq7wCHtK2EpljCAleq9Fos8PVXqH8t6Dnnun3eVEj31PgxnSrngcS+jsVJDdaZfLOpU+3l8n8H88ZczSyk+TTETFsxYVpNWn3Vda37HCkj+pNVKbV7jM/bQ937Pk6v8bnPJCzoNzj/giobfC70n97F2IMfuQUIHdqcwRwYvfxLAsS2IwqSyS8rlr6C7/32ceSkTq1u4/hN447ha5jTe7Xlm1qp9F4USyfdRWCzDu1lEFBdnB3vBVkmgvjYOagJvV5vTUdaxQhmeGCROk7UP0KDyVrsjNC46ZA5EO7tiyY6r7eBes39f24Jpss8n1B9MExS5 everyonce-master
